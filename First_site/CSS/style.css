@@ -18,11 +18,10 @@ header img {
   border: 7px solid black;
   border-radius: 20px;
   max-width:200px;
-  float: : center;
 
-div {
-  height: 500px
-  margin:40px 0 0 0;
+article {
+  height: 500px;
+  margin:100px 20px 0 20px;
 }
 
 p {
