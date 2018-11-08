@@ -18,11 +18,12 @@ header img {
   border: 7px solid black;
   border-radius: 20px;
   max-width:200px;
-
-article {
-  height: 500px;
-  margin:100px 20px 0 20px;
 }
+
+  article {
+    height: 500px;
+    margin:100px 20px 0 20px;
+  }
 
 p {
   color: rgba(255, 255, 255, 1);
